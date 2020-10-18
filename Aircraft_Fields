@@ -1,0 +1,28 @@
+General Info:
+-Registration
+-A/C Type
+-Serial Number
+-Default flt.number
+-Homebase
+
+A/C Type:
+-Name
+-Short Name
+
+Crew:
+-Cockpit
+-Cabin
+----
+-PAX capacity
+-Max cargo
+
+Units
+-Weight(kg/lbs)
+-Fuel(kg/lbs/US gal)
+-Fuel uplift(kg/lbs/US gal)
+---------
+-MTOW
+-MZWF
+-Operator(Company) name
+-Operator(Company) address
+-------------
